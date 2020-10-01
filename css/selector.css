@@ -1,0 +1,9 @@
+/* 
+h1:nth-child(odd){
+    color: green;
+} */
+
+
+h1:nth-child(3n){
+    color: red;
+}

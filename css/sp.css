@@ -1,0 +1,37 @@
+h1{
+font-size: 30px;
+    color: blue;
+}
+    
+p{
+
+    font-size: 18px;
+    color: crimson;
+}
+
+img{
+    border-radius:10px;
+    width: 100%;
+    
+}
+#parent{
+    width: 100%;
+display:inline-flex;
+}
+
+#first{
+    width: 75%;
+    background-color:white;
+    padding: 10px;
+    padding-left: 25px;
+    
+}
+
+#second{
+    width: 25%;
+    padding: 10px;
+box-shadow: 2px 2px 2px tomato;
+}
+
+
+

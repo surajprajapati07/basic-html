@@ -1,0 +1,61 @@
+h1{
+  font-size: 35px;
+  color: crimson;
+}
+
+p{
+    font-size: 18px;
+    color: darkgreen;
+    border: style dotted;
+    border widows: 2px;
+}
+
+img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+#father{
+    width: 100%;
+    display: inline-flex;
+    background-image: url(
+        https://images.unsplash.com/photo-1581178050161-22a665116021?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=397&q=80);
+}
+
+#sun{
+    width: 75%;
+    /* background-color:white; */
+    padding-left: 25px;
+    padding: 10px;
+}
+
+#doughter{
+    width: 25%;
+    padding: 10px;
+    box-shadow: 2px 2px 2px coral;
+}
+
+#gallery{
+    display: flex;
+    width: 100%;
+padding: 10px;
+}
+
+#gallery img{
+    border-radius: 15px;
+    padding:10px;
+    width:100px;
+    border: 5px solid red;
+    margin: 40px;
+    opacity: 0;
+}
+
+
+
+
+
+
+
+
+
+

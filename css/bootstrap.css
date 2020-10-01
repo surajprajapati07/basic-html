@@ -1,0 +1,36 @@
+.gallery{
+    width: 60%;
+    background-color: hotpink;
+    justify-content: space-around;
+    flex-direction: column;
+    border-radius: 15px;
+
+}
+
+.gallery
+img{
+    margin: 1em;
+    border: 02em solid;
+    border-radius: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
