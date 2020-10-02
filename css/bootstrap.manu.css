@@ -1,0 +1,46 @@
+.container{
+    width: 100%;
+    background-color: gray;
+    height: 50px;
+    display: flex;
+
+
+}
+
+.first{
+    width: 40%;
+}
+.first img{
+    width: 10%;
+    height: 50px;
+}
+
+.second{
+width:60%;
+text-align:right; 
+}
+.second ul{
+    list-style: none;
+    display: inline-flex;
+  
+ 
+ height: 50px;
+}
+.second li{
+    padding-left: 10px;
+padding-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
