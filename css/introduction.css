@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    background-color:lightseagreen;
+    height: 60px;
+    display: flex;
+}
+.first{
+    width: 30%;
+
+}
+.first img{
+    height: 40px;
+    width: 10%;
+    
+}
+.second{
+    width: 70%;
+    text-align: right;
+
+}
+.second ul{
+    list-style: none;
+    display: inline-flex;
+    text-align: right;
+
+}
+.second li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
